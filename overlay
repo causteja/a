@@ -1,0 +1,15 @@
+{
+"contact": "https://discord.gg/8rfjsmXJZn",
+"templates": [
+{
+"name": "The Baltics",
+"sources": [
+"https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/Assets/realplacefortaiwanfix.png"
+],
+"x": 899,
+"y": 909
+}
+],
+"whitelist": [],
+"blacklist": []
+}
